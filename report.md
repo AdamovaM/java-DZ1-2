@@ -33,4 +33,4 @@ Windows Version 10.0.18363.1256
 
 Java version 11.0.9
 
-IntelliJ IDEA
+JetBrains IntelliJ IDEA Ultimate 2020.1 x64
